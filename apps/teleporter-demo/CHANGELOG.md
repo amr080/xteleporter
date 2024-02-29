@@ -1,5 +1,11 @@
 # @core/teleporter-demo
 
+## 1.1.1
+
+### Patch Changes
+
+- d9981b3: Ohmywarp bump deps
+
 ## 1.1.0
 
 ### Minor Changes
